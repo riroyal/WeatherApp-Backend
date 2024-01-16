@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 0.2196,
+    "lat": 51.4435
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 275.57,
+    "feelsLike": 272.11,
+    "tempMin": 273.75,
+    "tempMax": 276.69,
+    "pressure": 1029,
+    "humidity": 72
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 50
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1704917290,
+  "sys": {
+    "type": 2,
+    "id": 2011528,
+    "country": "GB",
+    "sunrise": 1704873698,
+    "sunset": 1704903041
+  },
+  "timezone": 0,
+  "id": 2651500,
+  "name": "Dartford",
+  "cod": 200
+}
+
